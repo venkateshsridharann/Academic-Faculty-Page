@@ -1,0 +1,118 @@
+body
+{
+    background-color: whitesmoke;
+    margin:0;
+}
+
+.site_name
+{
+    padding-left: 6rem;
+}
+
+.top
+{
+    width: 100%;
+    background-color: #002752;
+    padding-top: 5px;
+}
+.link-home
+{
+    color: antiquewhite;
+}
+
+.site_p_name
+{
+    margin-left: 0;
+    padding-left: 0;
+
+}
+
+.site_pre_name
+{
+    font-size: x-large;
+    color: antiquewhite;
+}
+
+.site_post_name
+{
+     color: antiquewhite;
+}
+.col-xs-11
+{
+    margin-left: 10px;
+
+
+}
+.nav-item
+{
+    padding-right: 2rem;
+}
+
+
+.index-center
+{   padding-top: 3rem;
+    padding-left: 5rem;
+    text-align: center;
+}
+
+
+ .parallax {
+     /* The image used */
+     background-image: url("/pictures/4001.jpg");
+
+     /* Set a specific height */
+     height: 50em;
+     width: 100%;
+     padding-top: 3rem;
+     color: antiquewhite;
+     font-size: larger;
+     /*background-blend-mode: lighten;
+     background-color: rgba(100,100,100,.41);*/
+    text-align: center;
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+ }
+.details
+{
+    font-size: x-large;
+    margin-left: 20rem;
+    width: 34em;
+    color: antiquewhite;
+
+}
+
+hr{
+    border-color: red;
+
+}
+
+#dmishra
+{
+    text-align: center;
+}
+
+a:link {
+    color: greenyellow;
+    font: bold;
+    font-size: larger ;
+}
+
+.move
+{
+    padding-left: 40px;
+}
+
+.buttons-down
+{
+    color: antiquewhite;
+
+}
+
+.buttons-downn
+{
+    margin-left: 5em;
+}
