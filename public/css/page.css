@@ -131,4 +131,14 @@ a:link {
 .buttons-downn
 { margin-bottom: 1em;
     margin-left: 5em;
+    width: 30rem;
+}
+
+.padding-top
+{
+    padding-top: 3em;
+}
+.courses
+{
+    font-size: larger;
 }

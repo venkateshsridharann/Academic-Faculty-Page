@@ -3,7 +3,7 @@
 @section('content')
 
     <div class="parallax ">
-        <div class=""></div>
+
         <h1>DURGAMADHAB MISHRA</h1>
 
             <img id="dmishra" src="/pictures/dmisra.gif">
