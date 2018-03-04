@@ -1,7 +1,21 @@
 body
 {
-    background-color: whitesmoke;
-    margin:0;
+
+    background-image: url("/pictures/4001.jpg");
+    /* Set a specific height */
+    height: 30em;
+    width: 100%;
+    color: antiquewhite;
+    font-size: larger;
+    /*background-blend-mode: lighten;
+    background-color: rgba(100,100,100,.41);*/
+    text-align: center;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .site_name
@@ -57,24 +71,26 @@ body
 
 
  .parallax {
-     /* The image used */
+    /* !* The image used *!
      background-image: url("/pictures/4001.jpg");
 
-     /* Set a specific height */
-     height: 50em;
+     !* Set a specific height *!
+
      width: 100%;
      padding-top: 3rem;
      color: antiquewhite;
      font-size: larger;
-     /*background-blend-mode: lighten;
-     background-color: rgba(100,100,100,.41);*/
+     !*background-blend-mode: lighten;
+     background-color: rgba(100,100,100,.41);*!
     text-align: center;
-     /* Create the parallax scrolling effect */
+     !* Create the parallax scrolling effect *!
      background-attachment: fixed;
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
-
+    */
+     margin-top: 3em;
+     height: 50em;
  }
 .details
 {
@@ -113,6 +129,6 @@ a:link {
 }
 
 .buttons-downn
-{
+{ margin-bottom: 1em;
     margin-left: 5em;
 }

@@ -15,7 +15,7 @@
 
                 </div>
                 Department of Electrical and Computer Engineering <br>
-                Room: 339 ECEC <br>
+                <u><strong>Room: 339 ECEC</strong></u> <br>
                 New Jersey Institute of Technology Newark, NJ 07102 <br>
                 Tel:(973) 596-5739, FAX:(973) 596-5680 <br>
                 E-MAIL: <a href="mailto:dmisra@njit.edu ">dmisra@njit.edu</a> (dmisra AT njit DOT edu) <br>
