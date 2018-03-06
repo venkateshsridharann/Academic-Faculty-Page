@@ -18,3 +18,24 @@ Route::get('/courses', function () {
     return view('pages.courses');
 });
 
+Route::get('/research', function () {
+    return view('pages.research');
+});
+
+Route::get('/ECEGrad', function () {
+    return view('pages.ECEGrad');
+});
+
+Route::get('/Publications', function () {
+    return view('pages.Publications');
+});
+
+Route::get('/education', function () {
+    return view('pages.education');
+});
+
+Route::get('/awards', function () {
+    return view('pages.awards');
+});
+
+

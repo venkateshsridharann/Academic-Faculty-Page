@@ -1,7 +1,11 @@
 <nav class=" navbar navbar-expand-md navbar-dark bg-dark ">
-    <div class="container">
+    <div class="">
 
-        <div class=" collapse navbar-collapse" id="navbarSupportedContent">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
@@ -10,19 +14,19 @@
                     <a class="nav-link" href="/courses">Courses</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">ECE Grad Studies</a>
+                    <a class="nav-link" href="/ECEGrad">ECE Grad Studies</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Research</a>
+                    <a class="nav-link" href="/research">Research</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Publications</a>
+                    <a class="nav-link" href="/Publications">Publications</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Education</a>
+                    <a class="nav-link" href="/education">Education</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Awards</a>
+                    <a class="nav-link" href="/awards">Awards</a>
                 </li>
             </ul>
         </div>
@@ -30,10 +34,17 @@
 </nav>
 
 
-<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-bottom" >
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-bottom">
     <div class="container">
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault-2" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault-2">
             <ul class="navbar-nav mr-auto">
+
                 <li class="nav-item active">
                     <a class="nav-link" href="#"> <span class="sr-only">(current)</span></a>
                 </li>
