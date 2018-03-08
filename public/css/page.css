@@ -103,27 +103,13 @@ hr {
 #dmishra {
     text-align: center;
 }
-a:link {
-    color: dodgerblue;
 
-}
-
-/* visited link */
-a:visited {
-    color: greenyellow;
-}
-
-/* mouse over link */
-a:hover {
-    color: orange;
-    font: bold;
-}
 
 .move {
     padding-left: 40px;
 }
 
-.buttons-down {
+.buttons-down: {
     color: antiquewhite;
 
 }
@@ -133,6 +119,7 @@ a:hover {
     margin-left: 5em;
     width: 24rem;
 }
+
 
 .padding-top {
     padding-top: 3em;
@@ -153,4 +140,17 @@ a:hover {
 .font
 {
     text-align: left;
+}
+a:link {
+    color: greenyellow;
+
+}
+
+/* visited link */
+
+
+/* mouse over link */
+a:hover {
+    color: red;
+    font: x-large;
 }

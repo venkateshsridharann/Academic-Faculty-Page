@@ -29,14 +29,14 @@
         OR by Appointment <br>
         For appointment: Please Send <a href="mailto:dmisra@njit.edu ">Email</a> <br>
         <br>
-        <button class="btn btn-success buttons-downn"><a class="buttons-down"
-                                                         href="https://web.njit.edu/~dmisra/lab/pdf/FullCV_Misra_12_2017.pdf">Resume
-                in PDF</a></button>
-        <button class="btn btn-success buttons-downn"><a class="buttons-down" href="https://web.njit.edu/~dmisra/lab/">Device
-                Charecterization LAB</a></button>
-        <button class="btn btn-success buttons-downn"><a class="buttons-down"
-                                                         href="http://www6.njit.edu/news/2013/2013-199.php">2013
-                Collinan Award and EPD Award from ECS</a></button>
+        <a class="buttons-down"
+           href="https://web.njit.edu/~dmisra/lab/pdf/FullCV_Misra_12_2017.pdf"><button class="btn btn-success buttons-downn">Resume
+                in PDF</button></a>
+        <a class="buttons-down" href="https://web.njit.edu/~dmisra/lab/"><button class="btn btn-success buttons-downn">Device
+                Charecterization LAB</button></a>
+        <a class="buttons-down"
+           href="http://www6.njit.edu/news/2013/2013-199.php"><button class="btn btn-success buttons-downn">2013
+                Collinan Award and EPD Award from ECS</button></a>
     </div>
     </div>
 
