@@ -39,3 +39,24 @@ Route::get('/awards', function () {
 });
 
 
+Route::get('/gradstudents', function () {
+    return view('pages.gradstudents');
+});
+
+Route::get('/service', function () {
+    return view('pages.service');
+});
+
+Route::get('/conferences', function () {
+    return view('pages.conferences');
+});
+
+Route::get('/reu', function () {
+    return view('pages.reu');
+});
+
+
+Route::get('/grants', function () {
+    return view('pages.grants');
+});
+

@@ -44,26 +44,20 @@
         <div class="collapse navbar-collapse" id="navbarsExampleDefault-2">
             <ul class="navbar-nav mr-auto">
 
-                <li class="nav-item active">
-                    <a class="nav-link" href="#"> <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                    <a class="nav-link" href="/gradstudents">Grad Students</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Grad Students</a>
+                    <a class="nav-link" href="/service">Service</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Service</a>
+                    <a class="nav-link" href="/conferences">Conferences</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Conferences</a>
+                    <a class="nav-link" href="/reu">REU Info.</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">REU Info.</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Grants</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="/grants">Grants</a>
                 </li>
             </ul>
         </div>
