@@ -25,8 +25,8 @@
             <hr>
         </div>
         <br>
-        OFFICE HOURS Spring 2018: TUES 11AM-12PM and WED 4:30PM-5:30PM <br>
-        OR by Appointment <br>
+         <span style="background-color: #FFFF00; color:#000000 ; font-size: x-large"> OFFICE HOURS Spring 2018: TUES 11:00AM-12:00PM and WED 4:30PM-5:30PM  </span><br>
+        OR <br>by Appointment <br>
         For appointment: Please Send <a href="mailto:dmisra@njit.edu ">Email</a> <br>
         <br>
         <a class="buttons-down"

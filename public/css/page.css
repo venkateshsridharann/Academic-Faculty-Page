@@ -1,21 +1,11 @@
 body {
 
-    background-image: url("/pictures/400100.png");
-    /* Set a specific height */
-    height: 30em;
-    width: 100%;
-    color: antiquewhite;
+    background-image: url("/pictures/40011.png");
+    color: black;
     font-size: larger;
-    /*background-blend-mode: lighten;
-    background-color: rgba(100,100,100,.41);*/
     text-align: center;
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-blend-mode: multiply;
-    background-color: rgba(100, 100, 100, .91);
+    background-color: whitesmoke;
 
 }
 
@@ -65,24 +55,6 @@ body {
 }
 
 .parallax {
-    /* !* The image used *!
-     background-image: url("/pictures/4001.jpg");
-
-     !* Set a specific height *!
-
-     width: 100%;
-     padding-top: 3rem;
-     color: antiquewhite;
-     font-size: larger;
-     !*background-blend-mode: lighten;
-     background-color: rgba(100,100,100,.41);*!
-    text-align: center;
-     !* Create the parallax scrolling effect *!
-     background-attachment: fixed;
-     background-position: center;
-     background-repeat: no-repeat;
-     background-size: cover;
-    */
     margin-top: 3em;
     height: 50em;
 }
@@ -97,6 +69,7 @@ body {
 
 hr {
     border-color: red;
+    height: 20px;
 
 }
 
@@ -146,13 +119,7 @@ a:link {
 
 }
 
-/* visited link */
-a:visited {
-    color: greenyellow;
-}
-
-/* mouse over link */
 a:hover {
-    color: red;
-    font: bold;
+    color: orangered;
+
 }
