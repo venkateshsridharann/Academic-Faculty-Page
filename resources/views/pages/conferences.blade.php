@@ -16,7 +16,7 @@
             <p><strong>International Symposium on Emerging Technologies In Nanoelectronics</strong>
                 <br>
                 202nd Meeting fo ECS,Salt Lake City, Utah, October 20-25, 2002
-            </p><br><br><br
+            </p><br>
             <p>
                 <strong>International Conference on Information Technology</strong>
                 <br>
