@@ -142,15 +142,17 @@ hr {
     text-align: left;
 }
 a:link {
-    color: greenyellow;
+    color: dodgerblue;
 
 }
 
 /* visited link */
-
+a:visited {
+    color: greenyellow;
+}
 
 /* mouse over link */
 a:hover {
     color: red;
-    font: x-large;
+    font: bold;
 }
