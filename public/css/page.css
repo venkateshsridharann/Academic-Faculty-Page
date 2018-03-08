@@ -103,11 +103,20 @@ hr {
 #dmishra {
     text-align: center;
 }
-
 a:link {
-    color: greenyellow;
-    font: bold;
+    color: dodgerblue;
 
+}
+
+/* visited link */
+a:visited {
+    color: greenyellow;
+}
+
+/* mouse over link */
+a:hover {
+    color: orange;
+    font: bold;
 }
 
 .move {
