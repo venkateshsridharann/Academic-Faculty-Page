@@ -4,7 +4,7 @@
 
     <div class="parallax ">
         <div>
-            <h1>DURGAMADHAB MISHRA</h1>
+            <h1>DURGAMADHAB MISRA</h1>
 
             <img id="dmishra" src="/pictures/dmisra.gif">
 
