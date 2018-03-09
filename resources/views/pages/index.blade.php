@@ -25,20 +25,27 @@
             <hr>
         </div>
         <br>
-         <span style="background-color: #FFFF00; color:#000000 ; font-size: x-large"> OFFICE HOURS Spring 2018: TUES 11:00AM-12:00PM and WED 4:30PM-5:30PM  </span><br>
+        <span style="background-color: #FFFF00; color:#000000 ; font-size: x-large"> OFFICE HOURS Spring 2018: TUES 11:00AM-12:00PM and WED 4:30PM-5:30PM  </span><br>
         OR <br>by Appointment <br>
         For appointment: Please Send <a href="mailto:dmisra@njit.edu ">Email</a> <br>
         <br>
-        <a class="buttons-down"
-           href="https://web.njit.edu/~dmisra/lab/pdf/FullCV_Misra_12_2017.pdf"><button class="btn btn-success buttons-downn">Resume
-                in PDF</button></a>
-        <a class="buttons-down" href="https://web.njit.edu/~dmisra/lab/"><button class="btn btn-success buttons-downn">Device
-                Charecterization LAB</button></a>
-        <a class="buttons-down"
-           href="http://www6.njit.edu/news/2013/2013-199.php"><button class="btn btn-success buttons-downn">2013
-                Collinan Award and EPD Award from ECS</button></a>
-    </div>
-    </div>
+        <a href="http://www6.njit.edu/news/2013/2013-199.php">2013 Collinan Award and EPD Award from ECS</a>
+        <br><br><br>
+        <div class="buttoncontainer ">
+            <a class="buttons-down"
+               href="https://web.njit.edu/~dmisra/lab/pdf/FullCV_Misra_12_2017.pdf">
+                <button class="btn btn-outline-primary buttons-downn btn-background">Resume
+                    in PDF
+                </button>
+            </a>
+            <a class="buttons-down" href="https://web.njit.edu/~dmisra/lab/">
+                <button class="btn btn-outline-primary buttons-downn btn-background">Device
+                    Charecterization LAB
+                </button>
+            </a>
+        </div>
+    </div></div>
+
 
 
 @endsection

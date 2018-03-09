@@ -1,5 +1,5 @@
 <div class="top">
-    <div class="move">
+    <div class="move container">
 
         <div class="site_name">
             <div class="row">
